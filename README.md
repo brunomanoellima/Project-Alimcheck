@@ -16,12 +16,6 @@ Para criar títulos, utilize `#` seguido de um espaço antes do texto. O número
 **Texto em negrito**  
 __Texto em negrito__  
 
-*Texto em itálico*  
-_Texto em itálico_  
-
-***Texto em negrito e itálico***  
-___Texto em negrito e itálico___  
-
 ---
 
 ## Listas
@@ -75,3 +69,8 @@ Use `codigo()` para marcar um trecho de código.
 
 ```javascript
 console.log("Olá, mundo!");
+
+|Nome|Idade|
+|----|----|
+|Ana|23|
+|Bruno|29|
