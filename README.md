@@ -63,6 +63,12 @@ __Texto em negrito__
 
 ### Código inline
 
+### Tabela
+|Nome|Idade|
+|----|----|
+|Ana|23|
+|Bruno|29|
+
 Use `codigo()` para marcar um trecho de código.
 
 ### Bloco de código
@@ -70,7 +76,8 @@ Use `codigo()` para marcar um trecho de código.
 ```javascript
 console.log("Olá, mundo!");
 
-|Nome|Idade|
-|----|----|
-|Ana|23|
-|Bruno|29|
+````
+
+### Sumário
+
+-[Listas](listas)
