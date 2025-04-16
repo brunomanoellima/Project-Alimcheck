@@ -59,7 +59,9 @@ Andrey
 
 ## 1. INTRODUÇÃO
 
-A cidade de Itacoatiara... *(Texto completo aqui, resumido neste exemplo para brevidade)*
+A cidade de Itacoatiara, conhecida por sua rica diversidade gastronômica e forte presença de feiras locais, restaurantes e comércios alimentícios, ainda carece de mecanismos eficientes que ajudem a população a identificar estabelecimentos que realmente prezam pela qualidade e segurança dos alimentos.
+Muitas vezes, consumidores enfrentam dificuldades para saber onde comprar com confiança, seja ao escolher uma banca na feira, um restaurante para almoçar ou uma loja de produtos alimentícios. Casos de alimentos vencidos, bancas mal conservadas e restaurantes sem boas práticas sanitárias são comuns e pouco divulgados.
+Pensando nisso, este aplicativo surge como uma solução local, prática e comunitária para promover a segurança alimentar em Itacoatiara. A ideia é permitir que a própria população avalie, recomende e alerte sobre a qualidade dos alimentos e estabelecimentos da cidade, ajudando outros moradores a fazerem escolhas mais seguras e conscientes.
 
 ### 1.1 Objeto
 
