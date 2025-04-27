@@ -19,3 +19,5 @@ Será desenvolvido um aplicativo mobile para Android que:
 | **Fatores Externos** | **Oportunidades (Opportunities)** | **Ameaças (Threats)** |
 |----------------------|-----------------------------------|------------------------|
 | **Ambiente e Mercado** | - Tendência crescente de uso de aplicativos para consumo consciente.<br>- Potencial de expansão para outras cidades.<br>- Apoio a políticas públicas de saúde alimentar. | - Resistência de comerciantes locais a avaliações negativas.<br>- Concorrência com apps de avaliação mais genéricos (ex: Google Maps, TripAdvisor).<br>- Dificuldade de acesso a smartphones ou internet por parte da população. |
+
+![Matriz SWOT do projeto](Ideacao-especificacao/imagens/Matriz SWOT.png)
