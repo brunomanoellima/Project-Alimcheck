@@ -10,3 +10,12 @@ Será desenvolvido um aplicativo mobile para Android que:
 - Exibe alertas comunitários sobre problemas de higiene, validade e atentimento;
 - Disponibiliza filtros de busca por tipo de local, nota e localização.
 ---
+# Matriz SWOT:
+| **Fatores Internos** | **Pontos Fortes (Strengths)** | **Pontos Fracos (Weaknesses)** |
+|----------------------|-------------------------------|---------------------------------|
+| **Recursos e Capacidades** | - Aplicativo focado em segurança alimentar, uma necessidade real da cidade.<br>- Interface intuitiva e acessível.<br>- Envolvimento direto da comunidade local. | - Primeira versão compatível apenas com Android.<br>- Dependência do engajamento inicial da população para gerar avaliações. |
+| **Organização e Processos** | - Uso de metodologia ágil (Scrum) para desenvolvimento.<br>- Equipe multidisciplinar bem definida (devs, design, PO, Scrum Master, documentação). | - Equipe pequena, o que pode limitar o volume de funcionalidades no MVP.<br>- Tempo limitado para desenvolvimento acadêmico. |
+
+| **Fatores Externos** | **Oportunidades (Opportunities)** | **Ameaças (Threats)** |
+|----------------------|-----------------------------------|------------------------|
+| **Ambiente e Mercado** | - Tendência crescente de uso de aplicativos para consumo consciente.<br>- Potencial de expansão para outras cidades.<br>- Apoio a políticas públicas de saúde alimentar. | - Resistência de comerciantes locais a avaliações negativas.<br>- Concorrência com apps de avaliação mais genéricos (ex: Google Maps, TripAdvisor).<br>- Dificuldade de acesso a smartphones ou internet por parte da população. |
