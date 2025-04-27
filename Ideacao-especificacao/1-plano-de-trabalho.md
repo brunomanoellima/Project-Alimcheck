@@ -83,8 +83,21 @@ Projeto de Desenvolvimento de Software Mobile com foco em aplicação social vol
 #### 1.3.2 Enquadrabilidade
 O projeto se enquadra como **projeto de tecnologia com impacto social**, voltado à promoção da saúde pública por meio do consumo consciente e fiscalização comunitária de estabelecimentos de alimentação.
 
+| **Enquadrabilidade** | **Detalhamento** |
+|----------------------|------------------|
+| **Software de Impacto Social** | O aplicativo é destinado à promoção da segurança alimentar em uma comunidade urbana, estimulando boas práticas de higiene e qualidade alimentar entre estabelecimentos. |
+| **Aplicativo Educacional e Comunitário** | Promove educação alimentar e conscientização comunitária através de avaliações colaborativas, sem fins comerciais diretos. |
+| **Software Livre/Comunitário (a definir)** | Pode adotar licenciamento livre futuramente para expandir o acesso, dependendo da decisão do time (por exemplo, licença MIT ou Creative Commons). |
+| **Projeto de Pesquisa e Extensão Acadêmica** | Desenvolvido no contexto da disciplina de Engenharia de Software, focado em resolver um problema local real através de tecnologia acessível. |
+
 #### 1.3.3 Tipo
 Aplicativo de avaliação colaborativa, desenvolvido com abordagem ágil, centrado no usuário e com foco em usabilidade, acessibilidade e impacto regional.
+
+| **Tipo** | **Detalhamento** |
+|----------|------------------|
+| **Desenvolvimento de Aplicativo Móvel** | O projeto envolve a criação de um aplicativo mobile (Android) voltado para avaliação e recomendação de estabelecimentos alimentícios locais. |
+| **Trabalho Acadêmico** | Desenvolvido no contexto da disciplina de Engenharia de Software I, aplicando práticas de Design Thinking e metodologias ágeis (Scrum). |
+| **Sistema de Avaliação Colaborativa** | Focado em avaliações realizadas pela comunidade, estimulando a participação cidadã para a melhoria da segurança alimentar na cidade de Itacoatiara. |
 
 ---
 
@@ -138,17 +151,33 @@ Desenvolvimento de uma aplicação mobile que permita aos moradores da cidade de
 ## 3. METODOLOGIA DE PROJETO
 
 ### 3.1 Estrutura do Projeto
-O projeto será dividido em sprints quinzenais, seguindo princípios do Scrum. A gestão será feita via GitHub Projects com duas boards principais: Backlog do Produto e Backlog do Sprint.
+
+### 3.1 Estrutura do Projeto
+
+O projeto será desenvolvido utilizando a metodologia ágil Scrum, dividido em fases iterativas de curta duração (sprints) com entregas incrementais.
+
+As fases do projeto são:
+
+| **Fase**                          | **Atividades Principais**                                                                                                                                                    |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Conceito/Ideação**           | - Definição do problema e público-alvo;<br>- Análise de soluções similares;<br>- Definição da proposta de valor e diferenciais do aplicativo.                                |
+| **2. Levantamento de Requisitos** | - Criação do backlog do produto no GitHub;<br>- Definição de histórias de usuário com critérios de aceitação e regras de negócio.                                            |
+| **3. Projeto e Arquitetura**      | - Modelagem das telas e fluxo de navegação;<br>- Definição da arquitetura de software;<br>- Elaboração de diagramas de classes e estrutura de dados.                         |
+| **4. Projeto dos Casos de Teste** | - Definição dos cenários de testes para as funcionalidades do MVP;<br>- Criação de casos de teste vinculados às histórias do usuário.                                        |
+| **5. Desenvolvimento do MVP**     | - Implementação do aplicativo móvel focado nas funcionalidades essenciais;<br>- Realização de testes iterativos;<br>- Apresentação da primeira versão do MVP para validação. |
+
+O ciclo de desenvolvimento será dividido em **sprints quinzenais**, utilizando o GitHub Projects para organização do backlog e o Notion para registros diários (dailys) e acompanhamento de progresso.
+
 
 ### 3.2 Equipe de Projeto: Papéis e Responsabilidades
 
-| Membro     | Função            | Responsabilidades principais                                   |
-|------------|-------------------|----------------------------------------------------------------|
-| Bruno      | Desenvolvedor     | Codificação das interfaces e funcionalidades do app            |
-| Carlos     | UX/UI Designer    | Criação de protótipos e testes com usuários                    |
-| Cíntia     | Product Owner     | Organização do backlog e validação de requisitos               |
-| Francisco  | Scrum Master      | Facilitação das cerimônias ágeis e remoção de impedimentos     |
-| Nélio      | Documentação      | Registro de dailys, histórico e produção dos arquivos Markdown |
+| Membro    | Função | Responsabilidades principais |
+| --------- | ------ | ---------------------------- |
+| Bruno     |        |                              |
+| Carlos    |        |                              |
+| Cíntia    |        |                              |
+| Francisco |        |                              |
+| Nélio     |        |                              |
 
 ### 3.3 Backlog do Sprint
 Será atualizado no GitHub conforme o progresso da equipe com base nas reuniões diárias (registradas no Notion). Cada tarefa será vinculada a uma história de usuário previamente especificada no Backlog do Produto.
@@ -157,6 +186,35 @@ Será atualizado no GitHub conforme o progresso da equipe com base nas reuniões
 Mudanças deverão ser discutidas entre PO e time em reuniões semanais ou quando necessário. Cada alteração será registrada no GitHub com tag e descrição. Mudanças críticas devem passar por validação coletiva.
 
 ### 3.5 Gerenciamento de Comunicação
-A comunicação será feita via Notion (para dailys e organização) e WhatsApp (trocas rápidas). As decisões técnicas e estratégicas serão registradas semanalmente no repositório.
+
+A comunicação da equipe será baseada em práticas ágeis, utilizando ferramentas digitais para organização e alinhamento contínuo das atividades.
+
+As práticas definidas são:
+
+- **Sprint Planning (Planejamento da Sprint):**  
+  Realizado toda segunda-feira via Notion, onde a equipe define as tarefas que serão desenvolvidas na sprint corrente, baseadas no backlog priorizado.
+
+- **Daily Stand-up (Reuniões Diárias):**  
+  Cada membro da equipe registrará no Notion suas respostas às três perguntas fundamentais:
+  - O que fiz ontem?
+  - O que farei hoje?
+  - Encontrei algum impedimento?
+
+- **Sprint Review (Revisão da Sprint):**  
+  No final de cada sprint, a equipe realizará uma reunião para apresentar as entregas realizadas e demonstrar as funcionalidades implementadas no aplicativo.
+
+- **Sprint Retrospective (Retrospectiva da Sprint):**  
+  Após a Sprint Review, a equipe fará uma retrospectiva para discutir o que funcionou bem, o que pode ser melhorado e como serão implementadas as melhorias para a próxima sprint.
+
+- **Ferramentas de Comunicação:**
+  - **WhatsApp:** para comunicação rápida e informal entre os membros da equipe.
+  - **Notion:** para registro de dailys, reuniões de planejamento, atas de decisão e acompanhamento das tarefas.
+  - **GitHub Projects:** para gerenciamento do backlog do produto e do sprint, acompanhamento do progresso e controle de entregas.
+
+**Exemplo de Comunicação Efetiva:**
+- Toda segunda-feira a equipe realiza o Sprint Planning no Notion.
+- Todos os dias, até as 10h da manhã, cada membro registra no Notion sua Daily Stand-up.
+- No final de cada sprint, ocorre a Sprint Review e a Sprint Retrospective, registradas também no Notion.
+- Decisões importantes e alterações no escopo são documentadas e comunicadas via GitHub Issues e WhatsApp.
 
 ---
