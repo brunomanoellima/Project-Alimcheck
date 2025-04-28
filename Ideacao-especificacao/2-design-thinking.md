@@ -24,4 +24,3 @@ Será desenvolvido um aplicativo mobile para Android que:
 
 ---
 
-
