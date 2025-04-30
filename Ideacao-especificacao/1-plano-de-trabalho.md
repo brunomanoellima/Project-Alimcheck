@@ -1,6 +1,6 @@
 # PLANO DE TRABALHO
 
-**Nome do ProjetFSo:**  
+**Nome do Projeto:**  
 
 | Nomes Provisórios |
 |----------------|
