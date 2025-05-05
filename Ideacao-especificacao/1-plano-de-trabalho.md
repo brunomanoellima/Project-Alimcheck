@@ -173,11 +173,11 @@ O ciclo de desenvolvimento será dividido em **sprints quinzenais**, utilizando 
 
 | Membro    | Função | Responsabilidades principais |
 | --------- | ------ | ---------------------------- |
-| Bruno     |        |                              |
-| Carlos    |        |                              |
-| Cíntia    |        |                              |
-| Francisco |        |                              |
-| Nélio     |        |                              |
+| Bruno     |Scrum Master |Assegurar que o Scrum está sendo compreendido e praticado; ser facilitador e líder-serviço|
+| Carlos    |Developer    |Entregar um incremento funcional do produto ao final de cada Sprint                       |
+| Cíntia    |Product Owner|Maximizar o valor do produto e gerenciar o Product Backlog                                |
+| Francisco |Developers   |Entregar um incremento funcional do produto ao final de cada Sprint                       |
+| Nélio     |Developer    |Entregar um incremento funcional do produto ao final de cada Sprint                       |
 
 ### 3.3 Backlog do Sprint
 Será atualizado no GitHub conforme o progresso da equipe com base nas reuniões diárias (registradas no Notion). Cada tarefa será vinculada a uma história de usuário previamente especificada no Backlog do Produto.
