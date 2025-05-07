@@ -26,6 +26,6 @@ H13 - Como Dono de Estabelecimento, eu gostaria de divulgar certificados de boas
 
 H14 – Como dono de um estabelecimento, eu gostaria de cadastrar meu próprio estabelecimento na plataforma para que os consumidores possam avaliar nos meus serviços. (Bruno)
 
-H15 - Como Moderadora da plataforma, eu gostaria de analisar e validar relatos de usuários para manter a veracidade das informações publicadas antes de exibi-los publicamente. (Bruno)
+H15 - Como Moderadora da plataforma, eu gostaria de analisar relatos de usuários para manter a veracidade das informações publicadas antes de exibi-los publicamente. (Bruno)
 
 H16 - Como Moderadora da plataforma, eu gostaria de uma funcionalidade de historico dos usuarios para analisar o comportamento dos usuarios. (Bruno)
