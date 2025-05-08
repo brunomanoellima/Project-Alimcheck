@@ -27,7 +27,6 @@ O processo de ideação foi conduzido com base em:
 - **Pesquisa de Soluções Existentes**
 - **Personas criadas com HubSpot**
 - **Brainstorming colaborativo** no Notion  
-  🔗 [Acessar Ideação](https://link-do-notion.com)
 
 ---
 
@@ -52,7 +51,7 @@ Gerenciado com o recurso **GitHub Projects**, estruturado em dois quadros:
   - Enfrentei algum impedimento?
 - Reuniões de Review e Retrospectiva a cada sprint
 
-🔗 [Acessar Dailys no Notion](https://link-do-notion-dailys.com)
+🔗 [Acessar Dailys no Notion (pendente)](pendente)
 
 ---
 
@@ -70,7 +69,7 @@ Gerenciado com o recurso **GitHub Projects**, estruturado em dois quadros:
 
 ## 📱 Tecnologias
 
-- **Front-end:** Flutter / Kotlin (a definir)
+- **Front-end:** (a definir)
 - **Gerenciamento:** GitHub Projects + Notion
 - **Modelagem:** Draw.io
 - **Documentação:** Markdown
@@ -86,6 +85,3 @@ Gerenciado com o recurso **GitHub Projects**, estruturado em dois quadros:
 
 ---
 
-## 🧾 Licença
-
-A definir — possibilidade de uso de licenças como **MIT** ou **Creative Commons**.
