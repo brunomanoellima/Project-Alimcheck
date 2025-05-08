@@ -1,4 +1,4 @@
-![Logo do Aplicativo](imagens/logo_alimcheck.png)
+![Logo do Aplicativo](Ideacao-especificacao/imagens/logo_alimcheck.png)
 
 
 ---
