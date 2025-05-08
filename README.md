@@ -1,3 +1,4 @@
+![Logo do Aplicativo](AlimCheck.png)
 
 ---
 
