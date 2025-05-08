@@ -1,83 +1,91 @@
-## Títulos
-
-Para criar títulos, utilize `#` seguido de um espaço antes do texto. O número de `#` determina o nível do título (de 1 a 6).
-
-# Título Nível 1  
-## Título Nível 2  
-### Título Nível 3  
-#### Título Nível 4  
-##### Título Nível 5  
-###### Título Nível 6
 
 ---
 
-## Ênfase
+## 💡 Tema Escolhido
 
-**Texto em negrito**  
-__Texto em negrito__  
-
----
-
-## Listas
-
-### Lista não ordenada
-
-- Item 1  
-- Item 2  
-  - Subitem 2.1  
-  - Subitem 2.2  
-* Item 3  
-+ Item 4  
-
-### Lista ordenada
-
-1. Item 1  
-2. Item 2  
-   1. Subitem 2.1  
-   2. Subitem 2.2  
-3. Item 3  
+**Segurança Alimentar**  
+Aplicativo voltado para melhorar o consumo consciente em Itacoatiara-AM, ajudando os cidadãos a identificar estabelecimentos que realmente sigam boas práticas sanitárias.
 
 ---
 
-## Links
+## 🚀 Funcionalidades Principais
 
-[Google](https://www.google.com)  
-[Documentação do Markdown](https://www.markdownguide.org)
-
----
-
-## Imagens
-
-![Logo Markdown](https://markdown-here.com/img/icon256.png)
+- Cadastro e visualização de estabelecimentos locais
+- Sistema de avaliação com notas e comentários
+- Alertas comunitários sobre problemas de higiene
+- Filtros de busca por tipo de local, nota e localização
+- Interface acessível para usuários com baixa familiaridade digital
 
 ---
 
-## Citações (Blockquotes)
+## 🧠 Design Thinking
 
-> Isso é uma citação.  
->> Isso é uma citação dentro de outra citação.  
+O processo de ideação foi conduzido com base em:
+
+- **Golden Circle**: Por quê? Como? O quê?
+- **Matriz SWOT**
+- **Pesquisa de Soluções Existentes**
+- **Personas criadas com HubSpot**
+- **Brainstorming colaborativo** no Notion  
+  🔗 [Acessar Ideação](https://link-do-notion.com)
 
 ---
 
-## Código
+## 📋 Backlog
 
-### Código inline
+Gerenciado com o recurso **GitHub Projects**, estruturado em dois quadros:
 
-### Tabela
-|Nome|Idade|
-|----|----|
-|Ana|23|
-|Bruno|29|
+- **Backlog do Produto**  
+  Prioriza histórias de usuário com critérios de aceitação e regras de negócio.
 
-Use `codigo()` para marcar um trecho de código.
+- **Backlog do Sprint**  
+  Organiza as tarefas atribuídas a cada membro.
 
-### Bloco de código
+---
 
-```javascript
-console.log("Olá, mundo!");
+## 📅 Scrum e Organização Ágil
 
-````
+- Planejamento semanal no Notion
+- Dailys registradas com:
+  - O que fiz ontem?
+  - O que farei hoje?
+  - Enfrentei algum impedimento?
+- Reuniões de Review e Retrospectiva a cada sprint
 
-### Sumário
+🔗 [Acessar Dailys no Notion](https://link-do-notion-dailys.com)
 
--[Listas](listas)
+---
+
+## 👥 Equipe
+
+| Nome      | Papel                  |
+|-----------|------------------------|
+| Bruno     | (a definir)            |
+| Carlos    | (a definir)            |
+| Cíntia    | (a definir)            |
+| Francisco | (a definir)            |
+| Nélio     | (a definir)            |
+
+---
+
+## 📱 Tecnologias
+
+- **Front-end:** Flutter / Kotlin (a definir)
+- **Gerenciamento:** GitHub Projects + Notion
+- **Modelagem:** Draw.io
+- **Documentação:** Markdown
+
+---
+
+## 📈 Resultados Esperados
+
+- MVP funcional para Android
+- Interface acessível e intuitiva
+- Envolvimento da população local
+- Repositório com documentação e artefatos organizados
+
+---
+
+## 🧾 Licença
+
+A definir — possibilidade de uso de licenças como **MIT** ou **Creative Commons**.
