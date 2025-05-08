@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Ideacao-especificacao/imagens/logo_alimcheck.png" alt="Matriz SWOT" width="600">
+  <img src="Ideacao-especificacao/imagens/logo_alimcheck.png" alt="LOGO" width="300">
 </p>
 
 ---
