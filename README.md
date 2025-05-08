@@ -1,5 +1,7 @@
-![Logo do Aplicativo](Ideacao-especificacao/imagens/logo_alimcheck.png)
 
+<p align="center">
+  <img src="Ideacao-especificacao/imagens/logo_alimcheck.png" alt="Matriz SWOT" width="600">
+</p>
 
 ---
 
