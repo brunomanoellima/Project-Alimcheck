@@ -1,5 +1,6 @@
 ![Logo do Aplicativo](imagens/logo_alimcheck.png)
 
+
 ---
 
 ## 💡 Tema Escolhido
