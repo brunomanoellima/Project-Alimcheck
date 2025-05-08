@@ -57,13 +57,13 @@ Gerenciado com o recurso **GitHub Projects**, estruturado em dois quadros:
 
 ## 👥 Equipe
 
-| Nome      | Papel                  |
-|-----------|------------------------|
-| Bruno     | (a definir)            |
-| Carlos    | (a definir)            |
-| Cíntia    | (a definir)            |
-| Francisco | (a definir)            |
-| Nélio     | (a definir)            |
+| Membro    | Função | Responsabilidades principais |
+| --------- | ------ | ---------------------------- |
+| Bruno     |Scrum Master |Assegurar que o Scrum está sendo compreendido e praticado; ser facilitador e líder-serviço|
+| Carlos    |Developer    |Entregar um incremento funcional do produto ao final de cada Sprint                       |
+| Cíntia    |Product Owner|Maximizar o valor do produto e gerenciar o Product Backlog                                |
+| Francisco |Developers   |Entregar um incremento funcional do produto ao final de cada Sprint                       |
+| Nélio     |Developer    |Entregar um incremento funcional do produto ao final de cada Sprint                       |
 
 ---
 
