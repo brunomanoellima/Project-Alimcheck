@@ -30,3 +30,4 @@ Estabelecer a base do projeto: configurar o ambiente de desenvolvimento, organiz
 - [x] Criar página de Daily no Notion com tabela por membro
 - [x] Registrar diariamente: o que fez ontem, o que fará hoje, dificuldades encontradas
 - [x] Estabelecer rotina de reuniões (ex: 3x por semana via Google Meet ou Discord)
+- [x] Criação de slides para apresentação
