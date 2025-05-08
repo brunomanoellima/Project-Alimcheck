@@ -19,14 +19,14 @@ Estabelecer a base do projeto: configurar o ambiente de desenvolvimento, organiz
 
 ---
 
-### 📄 Levantamento Inicial de Requisitos (Bruno, Nelio, Carlos, Cintia e Francisco)
+### H-INFRA02-Como equipe de desenvolvimento, queremos levantar e documentar os principais requisitos do sistema para garantir alinhamento inicial sobre o que será entregue e facilitar a organização do backlog do produto. (Bruno, Nelio, Carlos, Cintia e Francisco)
 - [x] Definir as 15 principais histórias de usuário para priorização (baseadas no backlog do produto)
 - [x] Especificar pelo menos 10 histórias com critérios de aceitação e regras de negócio
 - [x] Criar documento `3_backlog-do-produto.md` e registrar as histórias no GitHub Projects
 
 ---
 
-### 💬 Comunicação e Organização (Nelio e Bruno)
+### H-INFRA03-Como equipe de projeto, queremos definir e utilizar ferramentas de comunicação e organização para garantir alinhamento diário, facilitar o acompanhamento do progresso e manter a transparência nas atividades da sprint. (Nelio e Bruno)
 - [x] Criar página de Daily no Notion com tabela por membro
 - [x] Registrar diariamente: o que fez ontem, o que fará hoje, dificuldades encontradas
 - [x] Estabelecer rotina de reuniões (ex: 3x por semana via Google Meet ou Discord)
