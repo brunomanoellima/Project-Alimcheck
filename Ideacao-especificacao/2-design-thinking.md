@@ -35,7 +35,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Público-alvo:** Usuários gerais que procuram restaurantes e serviços locais com base em localização e reputação.
 
 ---
-![Yep](Ideacao-especificacao/imagens/Yelp.jpg)
+![Yep](imagens/Yelp.jpg)
 ### Aplicativo: Yelp  
 **Descrição:** Plataforma de avaliação colaborativa para negócios locais, com foco em bares, cafés e restaurantes, permitindo comentários detalhados e fotos.  
 **Público-alvo:** Consumidores urbanos que valorizam opiniões da comunidade antes de visitar restaurantes.
