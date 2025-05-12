@@ -23,41 +23,6 @@ Será desenvolvido um aplicativo mobile para Android que:
 
 ![Matriz SWOT do projeto](imagens/matriz_swot.png)
 
-
-# Identificação Visual de Soluções Existentes
-
-### Aplicativo: TripAdvisor
-
-**Descrição:** Plataforma online para avaliação de experiências em restaurantes, hotéis e atrações turísticas, com base em comentários de usuários.  
-**Público-alvo:** Turistas e consumidores que buscam experiências gastronômicas confiáveis.
-
-![TripAdvisor](imagens/aa.jpg)
----
-
-### Aplicativo: Google Maps  
-
-**Descrição:** Ferramenta de localização com sistema integrado de avaliações de estabelecimentos, incluindo comentários sobre higiene, atendimento e qualidade dos alimentos.  
-**Público-alvo:** Usuários gerais que procuram restaurantes e serviços locais com base em localização e reputação.
-
-![Google Maps](imagens/Googlemaps.jpg)
----
-
-### Aplicativo: Yelp  
-
-**Descrição:** Plataforma de avaliação colaborativa para negócios locais, com foco em bares, cafés e restaurantes, permitindo comentários detalhados e fotos.  
-**Público-alvo:** Consumidores urbanos que valorizam opiniões da comunidade antes de visitar restaurantes.
-
-![Yep](imagens/a.jpg)
----
-
-### Aplicativo: iFood  
-
-**Descrição:** Aplicativo de entrega de comida que permite aos usuários avaliar restaurantes com base na qualidade da comida, tempo de entrega e higiene.  
-**Público-alvo:** Usuários que preferem refeições por delivery e desejam confiar nas avaliações antes de realizar um pedido.
-
-![Ifoof](imagens/Ifood.png)
----
-
 # Quadro Comparativo de Soluções Existentes
 
 | Critério | TripAdvisor | Google Maps | Yelp | iFood | Nossa solução |
