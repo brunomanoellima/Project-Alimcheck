@@ -55,7 +55,7 @@ Gerenciado com o recurso **GitHub Projects**, estruturado em dois quadros:
   - Enfrentei algum impedimento?
 - Reuniões de Review e Retrospectiva a cada sprint
 
-🔗 [Acessar Dailys no Notion (pendente)](pendente)
+🔗 (Daily Scrum)[https://neat-appeal-7e1.notion.site/Daily-Scrum-1d6c38eb674e80669811d8471d5202e9?pvs=4]
 
 ---
 
