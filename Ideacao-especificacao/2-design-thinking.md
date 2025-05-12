@@ -33,7 +33,10 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Descrição:** Plataforma online para avaliação de experiências em restaurantes, hotéis e atrações turísticas, com base em comentários de usuários.  
 **Público-alvo:** Turistas e consumidores que buscam experiências gastronômicas confiáveis.
 
-![TripAdvisor](imagens/aa.jpg)
+<p align="center">
+  <img src="imagens/aa.jpg" alt="TripAdvisor" width="400"/>
+</p>
+
 ---
 
 ### Aplicativo: Google Maps  
@@ -41,7 +44,10 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Descrição:** Ferramenta de localização com sistema integrado de avaliações de estabelecimentos, incluindo comentários sobre higiene, atendimento e qualidade dos alimentos.  
 **Público-alvo:** Usuários gerais que procuram restaurantes e serviços locais com base em localização e reputação.
 
-![Google Maps](imagens/Googlemaps.jpg)
+<p align="center">
+  <img src="imagens/Googlemaps.jpg" alt="Google Maps" width="400"/>
+</p>
+
 ---
 
 ### Aplicativo: Yelp  
@@ -49,7 +55,10 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Descrição:** Plataforma de avaliação colaborativa para negócios locais, com foco em bares, cafés e restaurantes, permitindo comentários detalhados e fotos.  
 **Público-alvo:** Consumidores urbanos que valorizam opiniões da comunidade antes de visitar restaurantes.
 
-![Yep](imagens/a.jpg)
+<p align="center">
+  <img src="imagens/a.jpg" alt="Yelp" width="400"/>
+</p>
+
 ---
 
 ### Aplicativo: iFood  
@@ -57,7 +66,10 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Descrição:** Aplicativo de entrega de comida que permite aos usuários avaliar restaurantes com base na qualidade da comida, tempo de entrega e higiene.  
 **Público-alvo:** Usuários que preferem refeições por delivery e desejam confiar nas avaliações antes de realizar um pedido.
 
-![Ifoof](imagens/Ifood.png)
+<p align="center">
+  <img src="imagens/Ifood.png" alt="iFood" width="400"/>
+</p>
+
 ---
 
 # Quadro Comparativo de Soluções Existentes
