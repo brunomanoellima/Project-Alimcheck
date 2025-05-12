@@ -34,7 +34,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Público-alvo:** Turistas e consumidores que buscam experiências gastronômicas confiáveis.
 
 <p align="center">
-  <img src="imagens/aa.jpg" alt="TripAdvisor" width="400"/>
+  <img src="imagens/TripAdvisor.jpg" alt="TripAdvisor" width="400"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Público-alvo:** Consumidores urbanos que valorizam opiniões da comunidade antes de visitar restaurantes.
 
 <p align="center">
-  <img src="imagens/a.jpg" alt="Yelp" width="400"/>
+  <img src="imagens/Yelp.jpg" alt="Yelp" width="400"/>
 </p>
 
 ---
