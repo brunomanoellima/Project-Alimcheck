@@ -23,7 +23,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 ![Matriz SWOT do projeto](imagens/matriz_swot.png)
 
 # Identificação Visual de Soluções Existentes
-![TripAdvisor](imagens/Tripadvisor.jpg)
+![TripAdvisor](Ideacao-especificacao/imagens/Tripadvisor.jpg)
 ### Aplicativo: TripAdvisor
 **Descrição:** Plataforma online para avaliação de experiências em restaurantes, hotéis e atrações turísticas, com base em comentários de usuários.  
 **Público-alvo:** Turistas e consumidores que buscam experiências gastronômicas confiáveis.
@@ -35,7 +35,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Público-alvo:** Usuários gerais que procuram restaurantes e serviços locais com base em localização e reputação.
 
 ---
-![Yep](imagens/Yelp.jpg)
+![Yep](Ideacao-especificacao/imagens/Yelp.jpg)
 ### Aplicativo: Yelp  
 **Descrição:** Plataforma de avaliação colaborativa para negócios locais, com foco em bares, cafés e restaurantes, permitindo comentários detalhados e fotos.  
 **Público-alvo:** Consumidores urbanos que valorizam opiniões da comunidade antes de visitar restaurantes.
