@@ -1,10 +1,16 @@
-# Personas
+# 📄 Personas do Projeto
 
-### 👤 Aline Barbosa
-[📄 Download PDF - Aline Barbosa](Anexos/AlineBarbosa.pdf)
+---
 
-### 👤 Carlos Mendes
-[📄 Download PDF - Carlos Mendes](Anexos/CarlosMendes.pdf)
+## 👤 Aline Barbosa
+[➡️ Visualizar PDF da Aline Barbosa](../Anexos/AlineBarbosa.pdf)
 
-### 👤 Maria Oliveira
-[📄 Download PDF - Maria Oliveira](Anexos/MariaOliveira.pdf)
+---
+
+## 👤 Carlos Mendes
+[➡️ Visualizar PDF do Carlos Mendes](../Anexos/CarlosMendes.pdf)
+
+---
+
+## 👤 Maria Oliveira
+[➡️ Visualizar PDF da Maria Oliveira](../Anexos/MariaOliveira.pdf)
