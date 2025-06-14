@@ -21,7 +21,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 | **Ambiente e Mercado** | - Tendência crescente de uso de aplicativos para consumo consciente.<br>- Potencial de expansão para outras cidades.<br>- Apoio a políticas públicas de saúde alimentar. | - Resistência de comerciantes locais a avaliações negativas.<br>- Concorrência com apps de avaliação mais genéricos (ex: Google Maps, TripAdvisor).<br>- Dificuldade de acesso a smartphones ou internet por parte da população. |
 
 
-![Matriz SWOT do projeto](imagens/Matriz.jpg)
+![Matriz SWOT do projeto](Anexos/Matriz.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Público-alvo:** Turistas e consumidores que buscam experiências gastronômicas confiáveis.
 
 <p align="center">
-  <img src="imagens/TripAdvisor.jpg" alt="TripAdvisor" width="400"/>
+  <img src="Anexos/TripAdvisor.jpg" alt="TripAdvisor" width="400"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Público-alvo:** Usuários gerais que procuram restaurantes e serviços locais com base em localização e reputação.
 
 <p align="center">
-  <img src="imagens/Googlemaps.jpg" alt="Google Maps" width="400"/>
+  <img src="Anexos/Googlemaps.jpg" alt="Google Maps" width="400"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Público-alvo:** Consumidores urbanos que valorizam opiniões da comunidade antes de visitar restaurantes.
 
 <p align="center">
-  <img src="imagens/Yelp.jpg" alt="Yelp" width="400"/>
+  <img src="Anexos/Yelp.jpg" alt="Yelp" width="400"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@ Será desenvolvido um aplicativo mobile para Android que:
 **Público-alvo:** Usuários que preferem refeições por delivery e desejam confiar nas avaliações antes de realizar um pedido.
 
 <p align="center">
-  <img src="imagens/Ifood.png" alt="iFood" width="400"/>
+  <img src="Anexos/Ifood.png" alt="iFood" width="400"/>
 </p>
 
 ---
