@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Ideacao-especificacao/imagens/logo.jpg" alt="LOGO" width="300">
+  <img src="Ideacao-especificacao/Anexos/logo.jpg" alt="LOGO" width="300">
 </p>
 
 ---
