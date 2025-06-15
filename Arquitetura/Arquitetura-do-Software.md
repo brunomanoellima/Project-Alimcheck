@@ -10,13 +10,13 @@
 
 | **Camada** | **Tecnologia** | **Justificativa** |
 |------------|-----------------|-------------------|
-| **Backend** | Node.js + Express | regbjbgvuieorgbvwui |
-| **Frontend** | Android (Java/Kotlin), Google Maps SDK, Retrofit/Volley | kbnlwreikhbnwoinhbtpirw |
-| **Banco de Dados** | PostgreSQL (Railway) | uihvbwueipbgvupi5re |
-| **Autenticação** | Firebase Authentication | gbiyufvytdxrtu |
-| **Notificações Push** | Firebase Cloud Messaging | fuytdii6ysdi |
-| **Infraestrutura / Deploy** | Railway / Render / Heroku | gfdcytdidtyids |
-| **Gerenciamento de Projeto** | GitHub Projects + Notion | jkbdicavcwuowvuecop |
+| **Backend** | Node.js + Express | Tecnologias leves e com grande comunidade para construção rápida de APIs REST. Fácil integração com banco de dados e serviços externos como Firebase. |
+| **Frontend** | Android (Java/Kotlin), Google Maps SDK, Retrofit/Volley | 	**Java/Kotlin**: Linguagens padrão para desenvolvimento Android nativo. **Google Maps SDK**: Necessário para exibir localização dos estabelecimentos. **Retrofit/Volley**: Bibliotecas populares para consumir APIs REST de forma eficiente. |
+| **Banco de Dados** | PostgreSQL (Railway) | Banco de dados relacional robusto, de código aberto, com suporte a consultas complexas e alta escalabilidade. |
+| **Autenticação** | Firebase Authentication | Solução pronta para autenticação com suporte a login por email, senha e redes sociais. Reduz complexidade no backend. |
+| **Notificações Push** | Firebase Cloud Messaging | Plataforma gratuita e confiável para envio de notificações push para dispositivos Android. |
+| **Infraestrutura / Deploy** | Railway / Render / Heroku | Plataformas simples e gratuitas (com planos de estudante) para deploy rápido de aplicações Node.js e bancos de dados PostgreSQL. |
+| **Gerenciamento de Projeto** | GitHub Projects + Notion | Para organizar tarefas de desenvolvimento. Notion: Para documentação interna e acompanhamento de progresso. |
 
 # Modelo C4 
 
@@ -31,7 +31,7 @@
 # Rastreabilidade com Histórias de Usuários
 
 | **História de Usuário** | **Componentes Envolvidos** | **Diagramas de Referência** |
-|---|---|---|
+|-------------------------|----------------------------|-----------------------------|
 | H1 - Avaliar estabelecimentos | ReviewController, ReviewService, ModerationService, PostgreSQL | Contexto, Containers, Componentes, Código |
 | H2 - Consultar avaliações e dados de higiene | EstablishmentController, ReviewController, SanitaryInspectionService, PostgreSQL | Contexto, Containers, Componentes, Código |
 | H3 - Registrar denúncias | AlertController, AlertService, ModerationService, PostgreSQL | Contexto, Containers, Componentes, Código |
