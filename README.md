@@ -113,7 +113,7 @@ Aqui estão todas as **histórias de usuário** e **requisitos funcionais**, org
 | H4 | Consultar estabelecimentos recomendados |
 | ... | ... |
 
-👉 Documento completo: [`3-backlog-do-produto.md`](Ideacao-especificao/3-backlog-do-produto.md)
+👉 Documento completo: [`3-backlog-do-produto.md`](Ideacao-especificacao/3-backlog-do-produto.md)
 
 ---
 
@@ -127,7 +127,7 @@ Mostramos aqui **as atividades planejadas e executadas nas Sprints**.
 - Documentar personas e matriz SWOT
 - Configurar Notion para Dailys
 
-👉 Detalhes: [`4-Backlog-sprint.md`](Ideacao-especificao/4-Backlog-sprint.md)
+👉 Detalhes: [`4-Backlog-sprint.md`](Ideacao-especificacao/4-Backlog-sprint.md)
 
 ### 🕒 Dailys no Notion:
 [Link para as Dailys](https://neat-appeal-7e1.notion.site/Daily-Scrum-1d6c38eb674e80669811d8471d5202e9?pvs=4)
@@ -193,10 +193,10 @@ Explicação de como o time aplicou o Scrum:
 
 - [Repositório no GitHub](#)  
 - [Notion - Dailys](https://neat-appeal-7e1.notion.site/Daily-Scrum-1d6c38eb674e80669811d8471d5202e9?pvs=4)  
-- [Plano de Trabalho](Ideacao-especificao/1-plano-de-trabalho.md)  
-- [Design Thinking](Ideacao-especificao/2-design-thinking.md)  
+- [Plano de Trabalho](Ideacao-especificacao/1-plano-de-trabalho.md)  
+- [Design Thinking](Ideacao-especificacao/2-design-thinking.md)  
 - [Backlog do Produto](Ideacao-especificacao/4-Backlog-sprint.md)  
-- [Sprint Backlog](Ideacao-especificao/4-Backlog-sprint.md)  
+- [Sprint Backlog](Ideacao-especificacao/4-Backlog-sprint.md)  
 - [Arquitetura do Software](./Arquitetura/Arquitetura-do-Software.md)
 
 ---
