@@ -47,8 +47,7 @@ Analisamos aplicativos como:
 - Yelp
 - iFood
 
-> As imagens comparativas estão em:  
-`Ideacao-especificacao/Anexos/`
+👉 Documentação: [`2-desing-thinking.md`]](Ideacao-especificacao/2-design-thinking.md)
 
 ### 👤 Personas
 Personas criadas com base no perfil do público de Itacoatiara.  
@@ -57,25 +56,24 @@ Personas criadas com base no perfil do público de Itacoatiara.
 ### 💬 Brainstorming
 Sessões colaborativas registradas no Notion.
 
-[brainstorming](https://www.notion.so/Sess-o-de-Brainstorming-1eec38eb674e80f69ab0e88e0ec0eded?source=copy_link)
+👉 Link: [brainstorming](https://www.notion.so/Sess-o-de-Brainstorming-1eec38eb674e80f69ab0e88e0ec0eded?source=copy_link)
 ---
 
 ## 🧱 3. Arquitetura do Sistema (Modelo C4)
 
 Aqui descrevemos como o sistema foi planejado tecnicamente, seguindo o Modelo C4 conforme exigência do Trabalho Prático II.
 
-### 🧑‍💻 Padrões Arquiteturais Adotados
-- **MVC (Model-View-Controller)**
-- **Arquitetura em Camadas (Presentation, Business Logic, Data Access)**
+### 🧑‍💻 Padrão Arquitetural Adotado
+- **Cliente/Servidor (REST)**
 
 ### 🗺️ Tech Stack Map (Mapa de Tecnologias)
 | Camada | Tecnologia |
 |---|---|
-| Frontend | React Native |
+| Frontend | Java/Kotlin, Google Maps SDK, Retrofit/Volley |
 | Backend | Node.js + Express |
 | Banco de Dados | PostgreSQL |
 | Autenticação | Firebase Auth |
-| Deploy | Railway / Vercel |
+| Deploy | Railway / Render / Heroku|
 
 📷 Imagem: ![Tech Stack Map](Arquitetura/Anexo/Tech-stack-map.jpg)
 
@@ -104,17 +102,7 @@ Aqui descrevemos como o sistema foi planejado tecnicamente, seguindo o Modelo C4
 
 Aqui estão todas as **histórias de usuário** e **requisitos funcionais**, organizados com critérios de aceitação e regras de negócio.
 
-### 📝 Exemplos de Histórias de Usuário:
-
-| ID | História |
-|---|---|
-| H1 | Avaliar estabelecimentos |
-| H2 | Consultar informações de higiene |
-| H3 | Denunciar problemas alimentares |
-| H4 | Consultar estabelecimentos recomendados |
-| ... | ... |
-
-👉 Documento completo: [`3-backlog-do-produto.md`](Ideacao-especificacao/3-backlog-do-produto.md)
+👉 Documento: [`3-backlog-do-produto.md`](Ideacao-especificacao/3-backlog-do-produto.md)
 
 ---
 
@@ -169,11 +157,11 @@ Explicação de como o time aplicou o Scrum:
 
 | Camada | Tecnologia | Justificativa |
 |---|---|---|
-| Frontend | React Native | Permite desenvolvimento Android |
+| Frontend | Java/Kotlin | Permite desenvolvimento Android |
 | Backend | Node.js + Express | Rápido e com ampla comunidade |
 | Banco de Dados | PostgreSQL | Robusto e escalável |
 | Autenticação | Firebase Auth | Fácil integração |
-| Deploy | Railway / Vercel | Suporte a CI/CD |
+| Deploy | Railway / Render / Heroku | Suporte a CI/CD |
 
 ---
 
