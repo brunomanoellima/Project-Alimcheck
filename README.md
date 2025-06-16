@@ -195,7 +195,7 @@ Explicação de como o time aplicou o Scrum:
 - [Notion - Dailys](https://neat-appeal-7e1.notion.site/Daily-Scrum-1d6c38eb674e80669811d8471d5202e9?pvs=4)  
 - [Plano de Trabalho](Ideacao-especificao/1-plano-de-trabalho.md)  
 - [Design Thinking](Ideacao-especificao/2-design-thinking.md)  
-- [Backlog do Produto](Ideacao-especificao/3-backlog-do-produto.md)  
+- [Backlog do Produto](Ideacao-especificacao/4-Backlog-sprint.md)  
 - [Sprint Backlog](Ideacao-especificao/4-Backlog-sprint.md)  
 - [Arquitetura do Software](./Arquitetura/Arquitetura-do-Software.md)
 
