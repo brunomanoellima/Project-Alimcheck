@@ -22,11 +22,19 @@
 
 ## Diagrama de Contexto
 
+![Diagrama-de-Contexto](Ideacao-especificacao/Anexos/Diagrama-de-Contexto.jpg)
+
 ## Diagrama de Conteiners
+
+![Diagrama-de-Conteiners](Ideacao-especificacao/Anexos/C4 conteiners.drawio.png)
 
 ## Diagrama de Componentes
 
+![Diagrama-de-Componentes](Ideacao-especificacao/Anexos/Componentes.drawio.png)
+
 ## Diagrama UML
+
+![Diagrama-UML](Ideacao-especificacao/Anexos/Componentes.drawio.png)
 
 # Rastreabilidade com Histórias de Usuários
 
