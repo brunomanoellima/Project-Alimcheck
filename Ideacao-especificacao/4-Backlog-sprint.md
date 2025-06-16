@@ -55,27 +55,27 @@ Desenvolver a documentação arquitetural do sistema, utilizando o **Modelo C4**
 
 ---
 
-### T15 - Definir os Padrões Arquiteturais Adotados  
+T15 - Definir os Padrões Arquiteturais Adotados  
 
-### T16 - Criar o Tech Stack Map (Mapa de Tecnologias)  
+T16 - Criar o Tech Stack Map (Mapa de Tecnologias)  
 
-### T17 - Criar o Diagrama de Contexto (Nível 1 do Modelo C4)  
+T17 - Criar o Diagrama de Contexto (Nível 1 do Modelo C4)  
 
-### T18 - Criar o Diagrama de Containers (Nível 2 do Modelo C4)  
+T18 - Criar o Diagrama de Containers (Nível 2 do Modelo C4)  
 
-### T19 - Criar o Diagrama de Componentes (Nível 3 do Modelo C4)  
+T19 - Criar o Diagrama de Componentes (Nível 3 do Modelo C4)  
 
-### T20 - Criar o Diagrama de Código (Nível 4 do Modelo C4 - UML de Classes)  
+T20 - Criar o Diagrama de Código (Nível 4 do Modelo C4 - UML de Classes)  
 
-### T21 - Criar a Tabela de Rastreabilidade das Histórias de Usuário  
+T21 - Criar a Tabela de Rastreabilidade das Histórias de Usuário  
 
-### T22 - Atualizar a Documentação no GitHub  
+T22 - Atualizar a Documentação no GitHub  
 
-### T23 - Preparar os Slides da Apresentação  
+T23 - Preparar os Slides da Apresentação  
 
-### T24 - Revisar e Validar a Entrega com a Equipe  
+T24 - Revisar e Validar a Entrega com a Equipe  
 
-### T25 - Registrar o Link das Dailys no Repositório  
+T25 - Registrar o Link das Dailys no Repositório  
 
 
 
