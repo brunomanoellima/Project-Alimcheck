@@ -34,7 +34,7 @@
 
 ## Diagrama UML
 
-![Diagrama-UML]()
+![Diagrama-UML](Anexo/diagrama-de-codigo.drawio.png)
 
 # Rastreabilidade com Histórias de Usuários
 
