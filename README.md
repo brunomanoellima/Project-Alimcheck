@@ -76,25 +76,25 @@ Aqui descrevemos como o sistema foi planejado tecnicamente, seguindo o Modelo C4
 | Autenticação | Firebase Auth |
 | Deploy | Railway / Render / Heroku|
 
-📷 Imagem: ![Tech Stack Map](Arquitetura/Anexo/Tech-stack-map.jpg)
+📷 Imagem: ![Tech Stack Map](Arquitetura/Anexo-Arquitetura/Tech-stack-map.jpg)
 
 ### 📊 Diagramas do Modelo C4
 
 - **Diagrama de Contexto:**  
   Mostra os atores (ex.: Usuário, Órgão Sanitário) e suas interações.  
-  📷 ![Contexto](Ideacao-especificacao/Anexos/Diagrama-de-Contexto.jpg)
+  📷 ![Contexto](Ideacao-especificacao/Anexos-Arquitetura/Diagrama-de-Contexto.jpg)
 
 - **Diagrama de Containers:**  
   Mostra os blocos técnicos (ex.: Mobile App, API, Banco de Dados).  
-  📷 ![Containers](Arquitetura/Anexo/conteiners.drawio.png)
+  📷 ![Containers](Arquitetura/Anexo-Arquitetura/conteiners.drawio.png)
 
 - **Diagrama de Componentes:**  
   Mostra os módulos internos como serviços, controladores e repositórios.  
-  📷 ![Componentes](Arquitetura/Anexo/Componentes.drawio.png)
+  📷 ![Componentes](Arquitetura/Anexo-Arquitetura/Componentes.drawio.png)
 
 - **Diagrama de Código (UML Classes):**  
   *(Inserir quando disponível)*
-  ![UML](Arquitetura/Anexo/diagrama-de-codigo.drawio.png)
+  ![UML](Arquitetura/Anexo-Arquitetura/diagrama-de-codigo.drawio.png)
 👉 Detalhes completos em: [`Arquitetura/Arquitetura-do-Software.md`](./Arquitetura/Arquitetura-do-Software.md)
 
 ---
