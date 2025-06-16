@@ -6,7 +6,7 @@
 
 # Tech Stack Map
 
-![Tech-stack-map](Arquitetura/Anexo/Tech-stack-map.jpg)
+![Tech-stack-map](Anexo/Tech-stack-map.jpg)
 
 | **Camada** | **Tecnologia** | **Justificativa** |
 |------------|-----------------|-------------------|
@@ -22,15 +22,15 @@
 
 ## Diagrama de Contexto
 
-![Diagrama-de-Contexto](Arquitetura/Anexo/Diagrama-de-Contexto.jpg)
+![Diagrama-de-Contexto](Anexo/Diagrama-de-Contexto.jpg)
 
 ## Diagrama de Conteiners
 
-![Diagrama-de-Conteiners](Arquitetura/Anexo/conteiners.drawio.png)
+![Diagrama-de-Conteiners](Anexo/conteiners.drawio.png)
 
 ## Diagrama de Componentes
 
-![Diagrama-de-Componentes](Arquitetura/Anexo/Componentes.drawio.png)
+![Diagrama-de-Componentes](Anexo/Componentes.drawio.png)
 
 ## Diagrama UML
 
