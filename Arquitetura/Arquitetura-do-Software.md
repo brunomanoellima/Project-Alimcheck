@@ -6,7 +6,7 @@
 
 # Tech Stack Map
 
-![Tech-stack-map](Anexo/Tech-stack-map.jpg)
+![Tech-stack-map](Anexo-Arquitetura/Tech-stack-map.jpg)
 
 | **Camada** | **Tecnologia** | **Justificativa** |
 |------------|-----------------|-------------------|
@@ -22,19 +22,19 @@
 
 ## Diagrama de Contexto
 
-![Diagrama-de-Contexto](Anexo/Modelo_C4.drawio.png)
+![Diagrama-de-Contexto](Anexo-Arquitetura/Modelo_C4.drawio.png)
 
 ## Diagrama de Conteiners
 
-![Diagrama-de-Conteiners](Anexo/conteiners.drawio.png)
+![Diagrama-de-Conteiners](Anexo-Arquitetura/conteiners.drawio.png)
 
 ## Diagrama de Componentes
 
-![Diagrama-de-Componentes](Anexo/Componentes.drawio.png)
+![Diagrama-de-Componentes](Anexo-Arquitetura/Componentes.drawio.png)
 
 ## Diagrama UML
 
-![Diagrama-UML](Anexo/diagrama-de-codigo.drawio.png)
+![Diagrama-UML](Anexo-Arquitetura/diagrama-de-codigo.drawio.png)
 
 # Rastreabilidade com Histórias de Usuários
 
