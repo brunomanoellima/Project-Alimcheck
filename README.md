@@ -3,89 +3,205 @@
   <img src="Ideacao-especificacao/Anexos/logo.jpg" alt="LOGO" width="300">
 </p>
 
----
+# 📱 Projeto Foodiscan / AlimCheck
 
-## 💡 Tema Escolhido
-
-**Segurança Alimentar**  
-Aplicativo voltado para melhorar o consumo consciente em Itacoatiara-AM, ajudando os cidadãos a identificar estabelecimentos que realmente sigam boas práticas sanitárias.
-
----
-
-## 🚀 Funcionalidades Principais
-
-- Cadastro e visualização de estabelecimentos locais
-- Sistema de avaliação com notas e comentários
-- Alertas comunitários sobre problemas de higiene
-- Filtros de busca por tipo de local, nota e localização
-- Interface acessível para usuários com baixa familiaridade digital
+<p align="center">
+  <img src="Ideacao-especificacao/Anexos/logo.jpg" alt="LOGO" width="300">
+</p>
 
 ---
 
-## 🧠 Design Thinking
+## 📖 1. Introdução ao Projeto
 
-O processo de ideação foi conduzido com base em:
+Esta seção apresenta o contexto geral do projeto. Nosso aplicativo surgiu da necessidade de resolver um problema real em Itacoatiara-AM: a falta de informações confiáveis sobre a higiene e a qualidade dos alimentos nos estabelecimentos locais.
 
-- **Golden Circle**: Por quê? Como? O quê?
-- **Matriz SWOT**
-- **Pesquisa de Soluções Existentes**
-- **Personas criadas com HubSpot**
-- **Brainstorming colaborativo** no Notion  
+### 📌 Problema
+Consumidores da cidade enfrentam dificuldades para saber quais estabelecimentos seguem boas práticas sanitárias. Isso pode causar riscos à saúde pública.
 
----
+### 🎯 Objetivo Geral
+Desenvolver um aplicativo Android que permita aos moradores:
 
-## 📋 Backlog
+- Avaliar estabelecimentos
+- Denunciar problemas de higiene
+- Consultar a reputação de locais de venda de alimentos
 
-Gerenciado com o recurso **GitHub Projects**, estruturado em dois quadros:
-
-- **Backlog do Produto**  
-  Prioriza histórias de usuário com critérios de aceitação e regras de negócio.
-
-- **Backlog do Sprint**  
-  Organiza as tarefas atribuídas a cada membro.
+### 👥 Público-Alvo
+Moradores de Itacoatiara-AM, de todas as idades, com diferentes níveis de familiaridade digital.
 
 ---
 
-## 📅 Scrum e Organização Ágil
+## 💡 2. Ideação e Design Thinking
 
-- Planejamento semanal no Notion
-- Dailys registradas com:
-  - O que fiz ontem?
-  - O que farei hoje?
-  - Enfrentei algum impedimento?
-- Reuniões de Review e Retrospectiva a cada sprint
+Nesta parte, explicamos como a ideia foi desenvolvida usando métodos de **Design Thinking**, incluindo ferramentas de ideação e análise.
 
-🔗 (Daily Scrum)[https://neat-appeal-7e1.notion.site/Daily-Scrum-1d6c38eb674e80669811d8471d5202e9?pvs=4]
+### 🔍 Golden Circle
+- **Por quê?** Melhorar a segurança alimentar da população.
+- **Como?** Criando uma plataforma de avaliação colaborativa.
+- **O quê?** Um aplicativo Android para consultas, avaliações e denúncias.
 
----
+### 🟢 Matriz SWOT
+Análise dos pontos fortes, fracos, oportunidades e ameaças do projeto.
 
-## 👥 Equipe
+- 📷 Imagem: ![SWOT](Ideacao-especificacao/Anexos/Matriz.jpg)
 
-| Membro    | Função | Responsabilidades principais |
-| --------- | ------ | ---------------------------- |
-| Bruno     |Scrum Master |Assegurar que o Scrum está sendo compreendido e praticado; ser facilitador e líder-serviço|
-| Carlos    |Developer    |Entregar um incremento funcional do produto ao final de cada Sprint                       |
-| Cíntia    |Product Owner|Maximizar o valor do produto e gerenciar o Product Backlog                                |
-| Francisco |Developers   |Entregar um incremento funcional do produto ao final de cada Sprint                       |
-| Nélio     |Developer    |Entregar um incremento funcional do produto ao final de cada Sprint                       |
+### 📱 Análise de Soluções Existentes
+Analisamos aplicativos como:
 
----
+- TripAdvisor
+- Google Maps
+- Yelp
+- iFood
 
-## 📱 Tecnologias
+> As imagens comparativas estão em:  
+`Ideacao-especificacao/Anexos/`
 
-- **Front-end:** (a definir)
-- **Gerenciamento:** GitHub Projects + Notion
-- **Modelagem:** Draw.io
-- **Documentação:** Markdown
+### 👤 Personas
+Personas criadas com base no perfil do público de Itacoatiara.  
+👉 Arquivo: [`personas/Personas.md`](./personas/Personas.md)
 
----
-
-## 📈 Resultados Esperados
-
-- MVP funcional para Android
-- Interface acessível e intuitiva
-- Envolvimento da população local
-- Repositório com documentação e artefatos organizados
+### 💬 Brainstorming
+Sessões colaborativas registradas no Notion.
 
 ---
 
+## 🧱 3. Arquitetura do Sistema (Modelo C4)
+
+Aqui descrevemos como o sistema foi planejado tecnicamente, seguindo o Modelo C4 conforme exigência do Trabalho Prático II.
+
+### 🧑‍💻 Padrões Arquiteturais Adotados
+- **MVC (Model-View-Controller)**
+- **Arquitetura em Camadas (Presentation, Business Logic, Data Access)**
+
+### 🗺️ Tech Stack Map (Mapa de Tecnologias)
+| Camada | Tecnologia |
+|---|---|
+| Frontend | React Native |
+| Backend | Node.js + Express |
+| Banco de Dados | PostgreSQL |
+| Autenticação | Firebase Auth |
+| Deploy | Railway / Vercel |
+
+📷 Imagem: ![Tech Stack Map](Arquitetura/Anexo/Tech-stack-map.jpg)
+
+### 📊 Diagramas do Modelo C4
+
+- **Diagrama de Contexto:**  
+  Mostra os atores (ex.: Usuário, Órgão Sanitário) e suas interações.  
+  📷 ![Contexto](Ideacao-especificacao/Anexos/Diagrama-de-Contexto.jpg)
+
+- **Diagrama de Containers:**  
+  Mostra os blocos técnicos (ex.: Mobile App, API, Banco de Dados).  
+  📷 ![Containers](Arquitetura/Anexo/conteiners.drawio.png)
+
+- **Diagrama de Componentes:**  
+  Mostra os módulos internos como serviços, controladores e repositórios.  
+  📷 ![Componentes](Arquitetura/Anexo/Componentes.drawio.png)
+
+- **Diagrama de Código (UML Classes):**  
+  *(Inserir quando disponível)*
+
+👉 Detalhes completos em: [`Arquitetura/Arquitetura-do-Software.md`](./Arquitetura/Arquitetura-do-Software.md)
+
+---
+
+## 📋 4. Backlog do Produto
+
+Aqui estão todas as **histórias de usuário** e **requisitos funcionais**, organizados com critérios de aceitação e regras de negócio.
+
+### 📝 Exemplos de Histórias de Usuário:
+
+| ID | História |
+|---|---|
+| H1 | Avaliar estabelecimentos |
+| H2 | Consultar informações de higiene |
+| H3 | Denunciar problemas alimentares |
+| H4 | Consultar estabelecimentos recomendados |
+| ... | ... |
+
+👉 Documento completo: [`3-backlog-do-produto.md`](./3-backlog-do-produto.md)
+
+---
+
+## 🏃 5. Sprint Backlog
+
+Mostramos aqui **as atividades planejadas e executadas nas Sprints**.
+
+### ✅ Exemplo - Sprint 1:
+- Estruturar o repositório
+- Criar o backlog inicial
+- Documentar personas e matriz SWOT
+- Configurar Notion para Dailys
+
+👉 Detalhes: [`4-Backlog-sprint.md`](./4-Backlog-sprint.md)
+
+### 🕒 Dailys no Notion:
+[Link para as Dailys](https://neat-appeal-7e1.notion.site/Daily-Scrum-1d6c38eb674e80669811d8471d5202e9?pvs=4)
+
+---
+
+## 📅 6. Metodologia Ágil (Scrum)
+
+Explicação de como o time aplicou o Scrum:
+
+| Cerimônia | Frequência | Ferramenta |
+|---|---|---|
+| Sprint Planning | Semanal | Notion |
+| Daily Stand-up | Diária | Notion |
+| Sprint Review | Ao fim de cada sprint | Google Meet / Discord |
+| Sprint Retrospective | Após Review | Notion |
+
+**Ferramentas de Suporte:**
+- Notion
+- GitHub Projects
+- WhatsApp / Discord
+
+---
+
+## 👥 7. Equipe
+
+| Nome | Função | Responsabilidades |
+|---|---|---|
+| Bruno | Scrum Master | Facilitação e acompanhamento do processo ágil |
+| Carlos | Developer | Desenvolvimento técnico |
+| Cíntia | Product Owner | Gerenciamento do backlog e definição de requisitos |
+| Francisco | Developer | Desenvolvimento técnico |
+| Nélio | Developer | Desenvolvimento técnico |
+
+---
+
+## 📱 8. Tecnologias Utilizadas
+
+| Camada | Tecnologia | Justificativa |
+|---|---|---|
+| Frontend | React Native | Permite desenvolvimento Android |
+| Backend | Node.js + Express | Rápido e com ampla comunidade |
+| Banco de Dados | PostgreSQL | Robusto e escalável |
+| Autenticação | Firebase Auth | Fácil integração |
+| Deploy | Railway / Vercel | Suporte a CI/CD |
+
+---
+
+## 🎯 9. Resultados Esperados / MVP
+
+### Objetivos para o MVP:
+
+- Aplicativo Android funcional
+- Cadastro e consulta de estabelecimentos
+- Sistema de avaliações e denúncias
+- Alertas para usuários
+- Interface acessível
+- Documentação técnica completa no GitHub
+
+---
+
+## 🔗 10. Links Importantes
+
+- [Repositório no GitHub](#)  
+- [Notion - Dailys](https://neat-appeal-7e1.notion.site/Daily-Scrum-1d6c38eb674e80669811d8471d5202e9?pvs=4)  
+- [Plano de Trabalho](./1-plano-de-trabalho.md)  
+- [Design Thinking](./2-design-thinking.md)  
+- [Backlog do Produto](./3-backlog-do-produto.md)  
+- [Sprint Backlog](./4-Backlog-sprint.md)  
+- [Arquitetura do Software](./Arquitetura/Arquitetura-do-Software.md)
+
+---
