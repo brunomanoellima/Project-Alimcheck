@@ -82,7 +82,7 @@ Aqui descrevemos como o sistema foi planejado tecnicamente, seguindo o Modelo C4
 
 - **Diagrama de Contexto:**  
   Mostra os atores (ex.: Usuário, Órgão Sanitário) e suas interações.  
-  📷 ![Contexto](Ideacao-especificacao/Anexos-Arquitetura/Diagrama-de-Contexto.jpg)
+  📷 ![Contexto](Arquitetura/Anexo-Arquitetura/Modelo_C4.drawio.png)
 
 - **Diagrama de Containers:**  
   Mostra os blocos técnicos (ex.: Mobile App, API, Banco de Dados).  
