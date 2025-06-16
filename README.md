@@ -47,7 +47,7 @@ Analisamos aplicativos como:
 - Yelp
 - iFood
 
-👉 Documentação: [`2-desing-thinking.md`]](Ideacao-especificacao/2-design-thinking.md)
+👉 Documentação: [`2-desing-thinking.md`](Ideacao-especificacao/2-design-thinking.md)
 
 ### 👤 Personas
 Personas criadas com base no perfil do público de Itacoatiara.  
