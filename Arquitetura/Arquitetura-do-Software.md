@@ -22,7 +22,7 @@
 
 ## Diagrama de Contexto
 
-![Diagrama-de-Contexto](Anexo/Diagrama-de-Contexto.jpg)
+![Diagrama-de-Contexto](Anexo/Modelo_C4.drawio.png)
 
 ## Diagrama de Conteiners
 
