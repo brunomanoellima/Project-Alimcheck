@@ -93,7 +93,6 @@ Aqui descrevemos como o sistema foi planejado tecnicamente, seguindo o Modelo C4
   📷 ![Componentes](Arquitetura/Anexo-Arquitetura/Componentes.drawio.png)
 
 - **Diagrama de Código (UML Classes):**  
-  *(Inserir quando disponível)*
   ![UML](Arquitetura/Anexo-Arquitetura/diagrama-de-codigo.drawio.png)
 👉 Detalhes completos em: [`Arquitetura/Arquitetura-do-Software.md`](./Arquitetura/Arquitetura-do-Software.md)
 
