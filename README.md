@@ -57,6 +57,7 @@ Personas criadas com base no perfil do público de Itacoatiara.
 ### 💬 Brainstorming
 Sessões colaborativas registradas no Notion.
 
+[brainstorming](https://www.notion.so/Sess-o-de-Brainstorming-1eec38eb674e80f69ab0e88e0ec0eded?source=copy_link)
 ---
 
 ## 🧱 3. Arquitetura do Sistema (Modelo C4)
