@@ -1,4 +1,4 @@
-# 📱 Projeto Foodiscan / AlimCheck
+# Projeto Foodiscan / AlimCheck
 
 <p align="center">
   <img src="Ideacao-especificacao/Anexos/logo.jpg" alt="LOGO" width="300">
