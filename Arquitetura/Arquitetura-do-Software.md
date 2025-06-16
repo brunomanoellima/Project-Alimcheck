@@ -26,7 +26,7 @@
 
 ## Diagrama de Conteiners
 
-![Diagrama-de-Conteiners](Ideacao-especificacao/Anexos/C4 conteiners.drawio.png)
+![Diagrama-de-Conteiners](Ideacao-especificacao/Anexos/conteiners.drawio.png)
 
 ## Diagrama de Componentes
 
