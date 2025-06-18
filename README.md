@@ -70,7 +70,7 @@ Aqui descrevemos como o sistema foi planejado tecnicamente, seguindo o Modelo C4
 ### 🗺️ Tech Stack Map (Mapa de Tecnologias)
 | Camada | Tecnologia |
 |---|---|
-| Frontend | Java/Kotlin, Google Maps SDK, Retrofit/Volley |
+| Frontend | thunkable |
 | Backend | Node.js + Express |
 | Banco de Dados | PostgreSQL |
 | Autenticação | Firebase Auth |
