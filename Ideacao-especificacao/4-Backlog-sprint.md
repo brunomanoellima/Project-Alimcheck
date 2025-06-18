@@ -78,6 +78,38 @@ T24 - Revisar e Validar a Entrega com a Equipe
 T25 - Registrar o Link das Dailys no Repositório  
 
 
+# ✅ Sprint Backlog – Sprint 3
+
+---
+
+## ✅ Objetivo da Sprint
+
+Realizar a correção e refinamento dos requisitos com base nas inspeções realizadas, atualizar o backlog do produto com as histórias de usuário revisadas, detalhar as regras de negócio, definir as classes de equivalência e organizar os casos de teste iniciais. Além disso, garantir a rastreabilidade das correções e preparar os artefatos necessários para o desenvolvimento do sistema.
+
+---
+
+## ✅ Atividades da Sprint
+
+---
+
+T26 – Organizar os principais erros apontados na inspeção de requisitos
+
+T27 – Preparar o resumo das correções que devem ser feitas no sistema após a inspeção 
+
+T28 – Analisar os cenários de teste que impactam o desenvolvimento e revisar os casos críticos 
+
+T29 – Atualizar e detalhar as Histórias de Usuário com critérios de aceitação e regras de negócio 
+
+T30 – Revisar a documentação geral do backlog, garantindo alinhamento com os ajustes feitos
+
+T31 – Criar a Tabela de Classes de Equivalência para suporte ao desenvolvimento 
+
+T32 – Validar se os ajustes feitos nas histórias de usuário estão refletindo corretamente as correções da inspeção 
+
+T33 – Levantar no GitHub todas as issues relacionadas a ajustes de requisitos e funcionalidades 
+
+T34 – Organizar as issues no GitHub para facilitar o acompanhamento durante o desenvolvimento
+
 
 
 
