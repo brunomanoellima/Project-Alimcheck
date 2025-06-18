@@ -70,7 +70,7 @@ Aqui descrevemos como o sistema foi planejado tecnicamente, seguindo o Modelo C4
 ### 🗺️ Tech Stack Map (Mapa de Tecnologias)
 | Camada | Tecnologia |
 |---|---|
-| Frontend | thunkable |
+| Frontend | Thunkable |
 | Backend | Node.js + Express |
 | Banco de Dados | PostgreSQL |
 | Autenticação | Firebase Auth |
@@ -157,7 +157,7 @@ Explicação de como o time aplicou o Scrum:
 
 | Camada | Tecnologia | Justificativa |
 |---|---|---|
-| Frontend | Java/Kotlin | Permite desenvolvimento Android |
+| Frontend | Thunkable | Permite desenvolvimento Android |
 | Backend | Node.js + Express | Rápido e com ampla comunidade |
 | Banco de Dados | PostgreSQL | Robusto e escalável |
 | Autenticação | Firebase Auth | Fácil integração |
