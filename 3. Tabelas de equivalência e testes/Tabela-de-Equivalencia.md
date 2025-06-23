@@ -1,5 +1,24 @@
 ## H1 - Como consumidor, eu gostaria de avaliar estabelecimentos de alimentação para ajudar outros usuários a escolherem locais seguros e de qualidade.
 
+**Critérios de Aceitação**  
+- O usuário pode atribuir notas de 1 a 5 para critérios como higiene, qualidade da comida, atendimento, tempo de espera e preço justo.  
+- A avaliação deve incluir pelo menos um critério com nota preenchida.  
+- O campo de comentário é opcional, mas, se preenchido, deve:  
+  - Conter no mínimo 10 caracteres alfanuméricos.  
+  - Ser validado contra uma blacklist de palavras ofensivas.  
+- O sistema deve rejeitar:  
+  - Avaliações sem nenhum critério preenchido.  
+  - Comentários com menos de 10 caracteres ou com palavras ofensivas.  
+- Cada usuário pode avaliar o mesmo estabelecimento apenas uma vez por semana, exibindo a mensagem: "Você já avaliou este estabelecimento nesta semana" em tentativas adicionais.  
+- Feedback visual deve ser exibido para avaliações rejeitadas, explicando o motivo.
+
+**Regras de Negócio**  
+- Notas devem estar no intervalo de 1 a 5; valores fora desse intervalo são rejeitados.  
+- Pelo menos um critério deve ser avaliado para submissão da avaliação.  
+- Comentários, se fornecidos, devem ter 10 ou mais caracteres alfanuméricos e não conter palavras da blacklist.  
+- A frequência de avaliações é limitada a uma por semana por estabelecimento por usuário.  
+- O sistema mantém uma blacklist atualizada de palavras ofensivas para validação de comentários.
+
 | Condição de Entrada             | Classes Válidas                                             | Classes Inválidas                               | Classes Inválidas               |
 | ------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- | ------------------------------- |
 | **Preenchimento dos Critérios** | Avaliação contém pelo menos um critério com nota (Higiene, Qualidade da comida, Atendimento, Tempo de espera, Preço justo) **(1)**    | Avaliação enviada sem nenhuma nota **(2)**      |                                 |
