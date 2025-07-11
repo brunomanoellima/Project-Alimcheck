@@ -111,5 +111,38 @@ T33 – Levantar no GitHub todas as issues relacionadas a ajustes de requisitos 
 T34 – Organizar as issues no GitHub para facilitar o acompanhamento durante o desenvolvimento
 
 
+# ✅ Sprint Backlog – Sprint 4
+
+---
+
+## ✅ Objetivo da Sprint
+
+Implementar a estrutura inicial do MVP do aplicativo **AlimCheck**, incluindo o fluxo de autenticação com tela de cadastro e login, persistência de dados no banco de dados, e navegação básica entre as principais telas. Também preparar os artefatos e configurações necessárias para a evolução das funcionalidades.
+
+---
+
+## ✅ Atividades da Sprint
+
+T35 – Criar tela de Cadastro de Usuário com validações e armazenamento no banco de dados (Firebase/Airtable)
+
+T36 – Criar tela de Login com autenticação e exibição da logo do aplicativo
+
+T37 – Implementar tela de Mapa com visualização de estabelecimentos cadastrados
+
+T38 – Desenvolver tela de Avaliação com formulário e validação de comentários
+
+T39 – Criar tela de Denúncia com campos de descrição e upload de imagens
+
+T40 – Configurar navegação entre as telas (menu, botões, fluxo sequencial)
+
+T41 – Personalizar a interface com a identidade visual do aplicativo (cores, logo, splash screen)
+
+T42 – Implementar persistência de dados para todas as operações essenciais do MVP
+
+T43 – Criar mensagens de feedback e validação nos formulários
+
+T44 – Registrar link do projeto e materiais no GitHub, incluindo prints e vídeos de demonstração
+
+T45 - Retrabalho nos diagramas C4 e rastreabilidade
 
 
