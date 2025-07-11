@@ -30,7 +30,7 @@
 
 ## Diagrama de Componentes
 
-![Diagrama-de-Componentes](Anexo-Arquitetura/C4 Componentes.drawio.png)
+![Diagrama-de-Componentes](Anexo-Arquitetura/C4Componentes.drawio.png)
 
 ## Diagrama UML
 
