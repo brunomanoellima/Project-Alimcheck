@@ -127,19 +127,11 @@ T35 – Criar tela de Cadastro de Usuário com validações e armazenamento no b
 
 T36 – Criar tela de Login com autenticação e exibição da logo do aplicativo
 
-T37 – Implementar tela de Mapa com visualização de estabelecimentos cadastrados
-
 T38 – Desenvolver tela de Avaliação com formulário e validação de comentários
-
-T39 – Criar tela de Denúncia com campos de descrição e upload de imagens
 
 T40 – Configurar navegação entre as telas (menu, botões, fluxo sequencial)
 
 T41 – Personalizar a interface com a identidade visual do aplicativo (cores, logo, splash screen)
-
-T42 – Implementar persistência de dados para todas as operações essenciais do MVP
-
-T43 – Criar mensagens de feedback e validação nos formulários
 
 T44 – Registrar link do projeto e materiais no GitHub, incluindo prints e vídeos de demonstração
 
