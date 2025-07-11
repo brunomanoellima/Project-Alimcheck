@@ -26,15 +26,15 @@
 
 ## Diagrama de Conteiners
 
-![Diagrama-de-Conteiners](Anexo-Arquitetura/conteiners.drawio.png)
+![Diagrama-de-Conteiners](Anexo-Arquitetura/Conteiners.drawio.png)
 
 ## Diagrama de Componentes
 
-![Diagrama-de-Componentes](Anexo-Arquitetura/Componentes.drawio.png)
+![Diagrama-de-Componentes](Anexo-Arquitetura/C4 Componentes.drawio.png)
 
 ## Diagrama UML
 
-![Diagrama-UML](Anexo-Arquitetura/diagrama-de-codigo.drawio.png)
+![Diagrama-UML](Anexo-Arquitetura/UML.drawio.png)
 
 # Rastreabilidade com Histórias de Usuários
 
