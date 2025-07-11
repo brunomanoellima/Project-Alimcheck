@@ -127,14 +127,14 @@ T35 – Criar tela de Cadastro de Usuário com validações e armazenamento no b
 
 T36 – Criar tela de Login com autenticação e exibição da logo do aplicativo
 
-T38 – Desenvolver tela de Avaliação com formulário e validação de comentários
+T37 – Desenvolver tela de Avaliação com formulário e validação de comentários
 
-T40 – Configurar navegação entre as telas (menu, botões, fluxo sequencial)
+T38 – Configurar navegação entre as telas (menu, botões, fluxo sequencial)
 
-T41 – Personalizar a interface com a identidade visual do aplicativo (cores, logo, splash screen)
+T39 – Personalizar a interface com a identidade visual do aplicativo (cores, logo, splash screen)
 
-T44 – Registrar link do projeto e materiais no GitHub, incluindo prints e vídeos de demonstração
+T40 – Registrar link do projeto e materiais no GitHub, incluindo prints e vídeos de demonstração
 
-T45 - Retrabalho nos diagramas C4 e rastreabilidade
+T41 - Retrabalho nos diagramas C4 e rastreabilidade
 
 
